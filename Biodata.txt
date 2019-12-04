@@ -1,6 +1,9 @@
 Nama : Arif Budiman
 Asal : Kuningan Jawa Barat
 Pekerjaan : IT Support
+<<<<<<< HEAD
 Alamat : Bogor
 pendidikan Terakhir : S-1
 Hobby : Membaca, Nonton Film, Music
+=======
+
